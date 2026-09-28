@@ -22,47 +22,53 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github\&logoColor=00D9FF)](https://github.com/camposss00)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/camposss00)
 
 <h3 align="left">Minha Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="Firebase" />
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
 
   <h3>* Estatísticas do GitHub *</h3>
 
   <br>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camposss00&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00D9FF&text_color=FFF&border_radius=3&border_color=0B3948&icon_color=00D9FF&theme=tokyonight" alt="Estatísticas do GitHub">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=camposss00&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=0B3948&border_radius=3"
+    alt="Estatísticas do GitHub"
+  />
 
   <a href="https://github.com/camposss00">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camposss00&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00D9FF&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0B3948" alt="Linguagens mais utilizadas">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposss00&layout=compact&langs_count=6&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&border_color=0B3948&border_radius=3"
+      alt="Linguagens mais utilizadas"
+    />
   </a>
 
 </div>
@@ -70,8 +76,19 @@
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake.svg">
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake-dark.svg"
+  >
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake-dark.svg"
+  >
+
+  <img
+    align="center"
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/camposss00/camposss00/output/github-contribution-grid-snake.svg"
+  >
+</picture>
