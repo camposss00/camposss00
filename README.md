@@ -26,9 +26,7 @@
 
 #
 
-<div align="right">
-  <img src="./src/study.gif" alt="Estudando programação" height="190px">
-</div>
+<img align="right" src="./src/study.gif" alt="Estudando programação" width="320px">
 
 <h3>Conecte-se comigo!</h3>
 
@@ -71,6 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
 
 </div>
+
+<br clear="both">
 
 #
 
