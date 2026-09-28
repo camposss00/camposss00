@@ -6,7 +6,11 @@
 
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<br>
+
+<div align="center">
+  <img src="./src/header-gif.gif" alt="Header" width="85%">
+</div>
 
 #
 
@@ -28,9 +32,9 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="Estudando programação" height="190px" src="./src/study.gif">
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3>Conecte-se comigo!</h3>
 
 <a href="https://github.com/camposss00">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub">
@@ -40,43 +44,48 @@
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
 </a>
 
-<h3 align="left">Minha Stack ~</h3>
+<br>
+<br>
 
-<div align="left">
+<h3>Minha Stack</h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5">
-  <img width="8">
+<div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="Firebase">
-  <img width="8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub">
+  <img width="10">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase">
+  <img width="10">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
 
 </div>
 
+<br>
+<br>
+
 #
 
-<div align="center">
+<h3 align="center">Estatísticas do GitHub</h3>
 
-  <h3>* Estatísticas do GitHub *</h3>
+<br>
 
-  <br>
-
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=camposss00&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=0B3948&border_radius=3"
     alt="Estatísticas do GitHub"
@@ -86,12 +95,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposss00&layout=compact&langs_count=6&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&border_color=0B3948&border_radius=3"
     alt="Linguagens mais utilizadas"
   >
-
-</div>
+</p>
 
 #
 
-<h3 align="center">* Minhas contribuições *</h3>
+<h3 align="center">Minhas contribuições</h3>
 
 <br>
 
