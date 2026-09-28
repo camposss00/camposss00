@@ -15,24 +15,20 @@
 #
 
 <p align="center">
-
   Sou estudante apaixonado por tecnologia, desenvolvimento de software e cibersegurança.
-
   <br><br>
-
   Atualmente estou aprimorando meus conhecimentos em desenvolvimento web,
   programação e criação de projetos.
-
   <br>
-
   Estou sempre aprendendo novas tecnologias e colocando meus conhecimentos
   em prática através de projetos.
-
 </p>
 
 #
 
-<img align="right" alt="Estudando programação" height="190px" src="./src/study.gif">
+<div align="right">
+  <img src="./src/study.gif" alt="Estudando programação" height="190px">
+</div>
 
 <h3>Conecte-se comigo!</h3>
 
@@ -75,27 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
 
 </div>
-
-<br>
-<br>
-
-#
-
-<h3 align="center">Estatísticas do GitHub</h3>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=camposss00&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=0B3948&border_radius=3"
-    alt="Estatísticas do GitHub"
-  >
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposss00&layout=compact&langs_count=6&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&border_color=0B3948&border_radius=3"
-    alt="Linguagens mais utilizadas"
-  >
-</p>
 
 #
 
